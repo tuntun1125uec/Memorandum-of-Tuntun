@@ -11,11 +11,11 @@
 <title>備忘のアポカリプス</title>
 
 <!-- CSS読み込み -->
-<link rel="stylesheet" href="CSS\mainstyle.css">
-<link rel="stylesheet" href="CSS\top.css">
-<link rel="stylesheet" href="CSS\content.css">
+<link rel="stylesheet" href="..\CSS\mainstyle.css">
+<link rel="stylesheet" href="..\CSS\top.css">
+<link rel="stylesheet" href="..\CSS\content.css">
 
-<script src="JavaScript\contentsList.js" defer></script>
+<script src="..\JavaScript\contentsList.js" defer></script>
 </head>
 
 <!-- 内容 -->
@@ -32,7 +32,7 @@
 
 <div class="relative">
     <div class ="contentsList">
-        <a href="#"> 自己紹介  </a>
+        <a href="..\index.html"> 自己紹介  </a>
     </div>
 
     <div class ="contentsList">
@@ -77,7 +77,7 @@
         <div id="profile">
             profile
         </div>
-        <img src="Image/Shimaenaga.jpg" alt="画像が表示されてません!" id="Shimaenaga">
+        <img src="..\Image\Shimaenaga.jpg" alt="画像が表示されてません!" id="Shimaenaga">
     電気通信大学Ⅲ類学域二年の一般生徒 趣味はゲーム 最近はBeat mania IIDX(弐寺)に熱狂 みんなも音ゲーやろう!!
 
     Twitter(現X)
@@ -95,30 +95,8 @@
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </p>
 
-    <h1> 自己紹介 とか</h1>
-    2024/08/08 公開
-    <p>こんにちは。ツンツンと申します。</p>
-    <p> とりあえず経歴を </p>
-    <p> 電気通信大学Ⅲ類二年の普通の学生です</p>
-    趣味はゲーム、最近は音ゲーにはまっています。
-    <img src="Image/IIDX_01.jpeg" class="figure">
-    <p>弐寺やってます。Level9 あたりをイージー、Level8の下位をハード付き始めるぐらいの実力です。</p>
-
-    <p>後はそろそろ天空璋EXを解放したいな～って思ってます。(摩多羅隠岐奈が強すぎる...)</p>
-
-    <h2>このブログの予定とか</h2>
-    このブログは普通に日常的なものを書いていきたいのと学習の備忘録的なものを作っていきたいと思っています。(自己満な気がしないでもないけどまあいっか)
-
-    まあ是非Twitterだかで#備忘のアポカリプスとかつけて感想をツイートしてくれれば私が喜びます。
-
-    <h2>ブログ内でのおかしなところ(特にリンク関連)は見つけたら是非お知らせください。お願いします</h2>
-
-    <h2>なんでこんなタイトルなの?</h2>
-    この備忘のアポカリプスというタイトルにしたのは、私が備忘録としてこのブログが誰かのアポカリプス(啓示,天啓)になってくれたら嬉しいからです
-    <p id="lie">...まあかっこいいからって感じでつけたんだけどね!!()</p>
-
-    ということでゆるくブログ書いていければいきたいです。皆様よろしくお願いいたします。m(_ _"m)
-    </div>
+    <h1> 更新履歴</h1>
+    2024/08/07 ブログ開設..??? とりあえず動くようにした。
 
 </body>
 

@@ -1,86 +1,65 @@
 @charset "UTF-8";
 
-body {
-    margin: -1px;
-    padding: 0;
-}
-#title{
-    /* 文字の大きさ */
-    font-size: 40pt;
-    /* 文字の位置  */
-    text-align:center;
-    /* 空白調整 */
-    margin-bottom: 5px;
-    color: crimson;
-    font-family: serif;
-    font-style:oblique;
-    background-color: rgba(255, 255, 255, 0.4); 
-}
-
-/* id は #name class は .nameで定義 */
-#subtitle{
-    font-size: 30pt;
-    text-align:center;
-    margin-top: 5px;
-    /* フォント指定 */
-    font-family: Monotype Corsiva;
-    background-color: rgba(255, 255, 255, 0.4); 
-}
-
-#titlebackground{
-    background-image: url('../Image/Enoshima.jpg');
-   
-    /* 画像をブロック全体にフィットさせる */ 
-    background-size: cover; 
-    /* 画像を中央に配置 */
-    background-position: center;
-    padding-top: 20px; 
-    padding-bottom: 20px;
-}
-
 .relative{
     position: relative;
     padding:0;
 }
 
-.content,.contentsList{
-    display: inline-block;
 
-    font-size: 20pt;
-    text-align:center;
-    
-    height: 50px;
-    width: 16.66%;
-    margin-left: 0px;
-    margin-right: -10px;
-    padding-top: 20px;
-    padding-left: -2%;
-    padding-right: -2%;
-    
-    background-color: aqua;
 
-    border: 2px solid rgb(58, 58, 58,0.8); /* 黒線で囲む */
-}
-
-.dropdowncontent {
-    /* ホバーしてなければ非表示 */
-    display: none;
-    
-    font-size: 15pt;
-    text-align: center;
-
-    width: 16%;
-    margin-left: 0px;
-    margin-right: -10px;
-    padding-top: 0px;
-    padding-left: -2%;
-    padding-right: -2%;
-
-    background-color: white;
-
-    border: 2px solid rgba(58, 58, 58, 0.8);
-
-    /* 位置を絶対評価 */
+#side{
     position: absolute;
-    z-index: 1;
+    top: 340px;
+    left:  69%;
+    padding: 0.5em 1em;
+    margin: 0 0;
+    color: #5d627b;
+    border-top: solid 5px #5d627b;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+
+    background-color: rgb(217, 255, 179);
+
 }
+
+#profile{
+    background-color: rgb(166, 0, 255,0.4);
+    text-align: center;
+    margin: 0 0;
+    border: double 5px #4ec4d3;
+    font-size: 20pt;
+}
+
+#Shimaenaga{
+    height: 150px;
+}
+
+#main{
+    position: absolute;
+    top: 340px;
+    
+    padding: 0.6em 0.6em;
+    width: 68%;
+    background-color: rgb(198, 207, 188);
+
+}
+
+h1{
+    text-align: center;
+    background-color: #999eb7;
+}
+
+.figure{
+    height: 400px;
+    width: 300x;
+}
+
+#lie{
+    text-align: center;    
+    font-size: 40pt;
+}
+
+/* dropdowncontent内ではaはblockになります
+.dropdowncontent a{
+    display: none;
+} */
+/* なにこれ */

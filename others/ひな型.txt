@@ -8,7 +8,7 @@
 <meta name=”viewport” content=”width=device-width, initial-scale=1” >
 
 <!-- タブに出る名前 -->
-<title>備忘のアポカリプス</title>
+<title>備忘のアポカリプス 更新履歴</title>
 
 <!-- CSS読み込み -->
 <link rel="stylesheet" href="..\CSS\mainstyle.css">
@@ -83,6 +83,7 @@
     Twitter(現X)
     <a class="twitter-timeline" data-lang="ja" data-height="350" href="https://twitter.com/tun___nijyou?ref_src=twsrc%5Etfw">Tweets by tun___nijyou</a> 
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <!--タグはここから--><table border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="http://www.rays-counter.com/"><img src="http://www.rays-counter.com/d1287_f6_167/66b31e8401fe8/" alt="アクセスカウンター" border="0"></a></td></tr><tr><td align="center"><img src="http://www.rays-counter.com/images/counter_01.gif" border="0"><img src="http://www.rays-counter.com/images/counter_02.gif" border="0"><img src="http://www.rays-counter.com/images/counter_03.gif" border="0"><img src="http://www.rays-counter.com/images/counter_04.gif" border="0" ><img src="http://www.rays-counter.com/images/counter_05.gif" border="0"></td></tr></table><!--ここまで-->
 
 </div>
 

@@ -26,12 +26,13 @@
     font-size: 20pt;
     text-align: center;
 
-    width: 16%;
+    width: 16.5%;
     margin-left: 0px;
     margin-right: -10px;
     padding-top: 0px;
     padding-left: -2%;
     padding-right: -2%;
+
 
     background-color: white;
 
@@ -40,6 +41,7 @@
     /* 位置を絶対評価 */
     position: absolute;
     z-index: 1;
+
 }
 
 

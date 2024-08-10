@@ -8,14 +8,14 @@
     <meta name=”viewport” content=”width=device-width, initial-scale=1” >
 
     <!-- タブに出る名前 -->
-    <title>備忘のアポカリプス 更新履歴</title>
+    <title>備忘のアポカリプス 始めて仕事をした</title>
 
     <!-- CSS読み込み -->
-    <link rel="stylesheet" href="..\CSS\mainstyle.css">
-    <link rel="stylesheet" href="..\CSS\top.css">
-    <link rel="stylesheet" href="..\CSS\content.css">
+    <link rel="stylesheet" href="..\..\..\CSS\mainstyle.css">
+    <link rel="stylesheet" href="..\..\..\CSS\top.css">
+    <link rel="stylesheet" href="..\..\..\CSS\content.css">
 
-    <script src="..\JavaScript\contentsList.js" defer></script>
+    <script src="..\..\..\JavaScript\contentsList.js" defer></script>
 </head>
 
 <!-- 内容 -->
@@ -32,18 +32,18 @@
 
     <div class="relative">
         <div class ="contentsList">
-            <a href="..\index.html"> 自己紹介  </a>
+            <a href="..\..\..\index.html"> 自己紹介  </a>
         </div>
 
         <div class ="contentsList">
-            <a href="../diary/diaryList.html"> 趣味や日常  <span></span>  </a>
+            <a href="../../../diary/diaryList.html"> 趣味や日常  <span></span>  </a>
             
         </div>
         
         <div class="contentsList">
             <a>物理学 <span>▼</span></a>
             <div class="dropdowncontent">
-                <p><a href="../physics/electoro.html"> テスト </a></p>
+                <p><a href="../../../physics/electoro.html"> テスト </a></p>
             </div>
         </div>
         <!-- しっかりと囲まないとエラーでます -->
@@ -65,7 +65,7 @@
         <div class ="contentsList">
             <a> その他  <span>▼</span>  </a>
             <div class="dropdowncontent">
-                <p><a href="#"> 更新履歴</a> </p>
+                <p><a href="../../../others/update.html"> 更新履歴</a> </p>
                 <p><a href="https://github.com/tuntun1125uec/Memorandum-of-Tuntun"> GitHub</a> </p>
             </div>
         </div>
@@ -78,7 +78,7 @@
         <div id="profile">
             profile
         </div>
-        <img src="..\Image\Shimaenaga.jpg" alt="画像が表示されてません!" id="Shimaenaga">
+        <img src="..\..\..\Image\Shimaenaga.jpg" alt="画像が表示されてません!" id="Shimaenaga">
     電気通信大学Ⅲ類学域二年の一般生徒 趣味はゲーム 最近はBeat mania IIDX(弐寺)に熱狂 みんなも音ゲーやろう!!
 
     Twitter(現X)
@@ -100,10 +100,7 @@
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </p>
 
-    <h1> 更新履歴</h1>
-    <p> 2024/08/11 記事を書いた <a href="../diary/2024/08/20240811.html"> これ</a></p>
-    <p> 2024/08/08 カウンター付けました。あと記事の入り口のフォーマットをつくりました。</p>
-    <p> 2024/08/07 ブログ開設..??? とりあえず動くようにした。</p>
+   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge   hogehogehoge
 
 </body>
 
